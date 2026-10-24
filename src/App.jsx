@@ -7,7 +7,7 @@ export default function App() {
   return (
     <main style={{ padding: "2rem", fontFamily: "Arial" }}>
       <h1>Midterm Calculator</h1>
-      <p>Student: YOUR NAME</p>
+      <p>Student: Daniel Biacan III</p>
       <p>Application Version: 1.0</p>
       <div>
         <label>
